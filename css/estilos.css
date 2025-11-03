@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+    font-size: 20px;
+}
+
+h2 {
+    color: green;
+    font-size: 18px;
+}
+
+.info {
+    background-color: pink;
+    font-weight: bold;
+}
+
+#contacto {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+img[alt] {
+    border-radius: 15px;
+    border: darkgreen 3px dotted;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+}
+
+.enlaces {
+    margin-top: 20px;
+    text-align: center;
+}
+a:hover {
+    color: green;
+    font-size: 30px;
+}
+
+input:focus {
+    background-color: yellow;
+    border: 4px solid orange;
+}
