@@ -26,7 +26,7 @@ function calcular() {
         operacion = String(resultado);
         resultadoMostrado = true;
     } catch {
-        display.innerText = "Error";
+        display.innerText = "ERROR";
         operacion = "";
         resultadoMostrado = false;
     }
